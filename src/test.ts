@@ -1,3 +1,3 @@
 export function someFn(num: number) {
-    console.log("randomFunction dsadsad" + num)
+    console.log("randomFunction yyyyy" + num)
 }
