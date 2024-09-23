@@ -16,8 +16,7 @@ export function classNames(cls: string, mods? : Mods, additional?: string[]) : s
             .filter(([key, value]) => Boolean(value))
             .map(([key, value]) => key)
             .join(' ')
-    ]
-        .join(' ')
+    ].join(' ')
 }
 
 // Пример использования:
